@@ -31,7 +31,7 @@ ul{
 button{
     color: white;
     background-color: hsl(281, 26%, 48%);
-    font-size: 20px;
+    font-size: 1.5rem;
 }
 
 button:hover{

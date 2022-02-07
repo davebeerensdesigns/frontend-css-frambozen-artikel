@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+body{
+    color:	hsl(223, 10%, 36%);
+    background-color:	hsl(280, 13%, 87%);
+    font-family: 'Poppins', sans-serif, -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+h1, h2, h3{
+    color: hsl(281, 26%, 48%);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+#introduction{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: square;
+}
+
+button{
+    color: white;
+    background-color: hsl(281, 26%, 48%);
+    font-size: 20px;
+}
+
+button:hover{
+    background-color:hsl(281, 48%, 48%);
+}
